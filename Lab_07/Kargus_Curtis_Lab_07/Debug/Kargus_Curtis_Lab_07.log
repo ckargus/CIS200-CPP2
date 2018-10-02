@@ -1,0 +1,5 @@
+﻿  Main2.cpp
+c:\users\curtis\documents\visual studio 2017\projects\kargus_curtis_lab_07\kargus_curtis_lab_07\main2.cpp(28): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\curtis\documents\visual studio 2017\projects\kargus_curtis_lab_07\kargus_curtis_lab_07\main2.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Kargus_Curtis_Lab_07.vcxproj -> c:\users\curtis\documents\visual studio 2017\Projects\Kargus_Curtis_Lab_07\Debug\Kargus_Curtis_Lab_07.exe
+  Kargus_Curtis_Lab_07.vcxproj -> c:\users\curtis\documents\visual studio 2017\Projects\Kargus_Curtis_Lab_07\Debug\Kargus_Curtis_Lab_07.pdb (Partial PDB)
